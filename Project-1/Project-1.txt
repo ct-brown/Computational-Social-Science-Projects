@@ -1,33 +1,3 @@
-(base) Taylor@Christophers-MacBook-Pro ~ % cd git
-(base) Taylor@Christophers-MacBook-Pro git % ls
-Computational-Social-Science-Training-Program
-git-challenges
-git-challenges-ctbrown
-(base) Taylor@Christophers-MacBook-Pro git % git clone 
-https://github.com/ct-brown/Computational-Social-Science-Projects.git
-Cloning into 'Computational-Social-Science-Projects'...
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Compressing objects: 100% (2/2), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (3/3), done.
-(base) Taylor@Christophers-MacBook-Pro git % mkdir Project 1
-(base) Taylor@Christophers-MacBook-Pro git % ls
-1
-Computational-Social-Science-Projects
-Computational-Social-Science-Training-Program
-Project
-git-challenges
-git-challenges-ctbrown
-(base) Taylor@Christophers-MacBook-Pro git % ls
-1
-Computational-Social-Science-Projects
-Computational-Social-Science-Training-Program
-Project
-git-challenges
-git-challenges-ctbrown
-(base) Taylor@Christophers-MacBook-Pro git % cd 
-Computational-Social-Science-Projects
 ls
 cd git
 git clone 
@@ -38,4 +8,3 @@ nano Project-1.txt
 git add *
 git commit -m "Project-1"
 git push
-
